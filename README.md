@@ -3,9 +3,9 @@
 
 - I am creating a Discord Bot in Python (and maybe use MongoDB Compass as db as I did in the past*)
 
-- Aaand after this do a website (just for fun)
+- Aaand after this I'll do a website (just for fun)
 
-- When I'll obtain my Baccalauréat (I'm french), I'll buy a computer and probably do lot of things on it
+- Then, when I'll obtain my Baccalauréat (I'm french), I'll buy a computer and probably do lot of things on it
 
 - AFTER THIS I'll buy a server to host many things
 
