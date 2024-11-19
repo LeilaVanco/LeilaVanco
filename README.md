@@ -3,11 +3,11 @@
 
 - I’m going to create a Discord Bot in Python (and maybe use MongoDB Compass as db)
 
-- AFTER THIS I'll buy a server (NAS?)
-
 - Aaand after this a website (just for fun)
 
-- When I'll have my Baccalauréat, I'll buy a computer and probably do lot of things on it
+- AFTER THIS I'll buy a server (NAS?)
+
+- When I'll have my Baccalauréat (I'm french), I'll buy a computer and probably do lot of things on it
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
