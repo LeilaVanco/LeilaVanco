@@ -10,7 +10,7 @@
 - AFTER THIS I'll buy a server to host many things
 
 I tried a little bit JavaScript* (discord bot with nodejs), html & css and lot of Python. But I'm not gonna stop here ! I'll learn new language yup yup.
-It could be great that I could take a bigger interest to Linux (Ubuntu), although I already did some stuff.
+It could be great if I could take a bigger interest to Linux (Ubuntu), although I already did some stuff.
 It's all my goals for now.. 🤖
 
 <h3 align="left">Come here !</h3>
