@@ -1,5 +1,5 @@
-## YOLOO I'm Leïla Vanco 🤠
-# This year gonna be FREAKY !!
+# YOLOO I'm Leïla Vanco 🤠
+## This year gonna be FREAKY !!
 
 - I’m going to create a Discord Bot in Python (and maybe use MongoDB Compass as db)
 
