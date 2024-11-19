@@ -9,7 +9,7 @@
 
 - AFTER THIS I'll buy a server to host many things
 
-I already coded a little in : JavaScript (discord bot with nodejs), html, CSS and a lot of in Python. But I'm not gonna stop here ! I'll learn new language yup yup
+I already coded a little in : JavaScript (discord bot with nodejs), html, css and a lot of Python. But I'm not gonna stop here ! I'll learn new language yup yup
 It could be great that I could take a bigger interest to Linux (Ubuntu), although I already did some stuff, It's all my goals for now.. 🤖
 
 <h3 align="left">Come here !</h3>
