@@ -9,7 +9,7 @@
 
 - When I'll have my Baccalauréat (I'm french), I'll buy a computer and probably do lot of things on it
 
--It could be great that I could take a bigger interest to Linux (Ubuntu), although I already did some stuff, It's all my goals for now.. I already coded a little in : JavaScript (discord bot with nodejs), html, CSS and a lot of in Python. But I'm not gonna stop here ! I'll learn new language yup yup
+It could be great that I could take a bigger interest to Linux (Ubuntu), although I already did some stuff, It's all my goals for now.. I already coded a little in : JavaScript (discord bot with nodejs), html, CSS and a lot of in Python. But I'm not gonna stop here ! I'll learn new language yup yup
 
 <h3 align="left">Come here !</h3>
 <p align="left">
