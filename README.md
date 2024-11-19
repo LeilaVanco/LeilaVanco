@@ -25,6 +25,8 @@ It's all my goals for now.. 🤖
 # One last thing.... TAKE THIS CAT
 <img src="https://pbs.twimg.com/media/Gctc6HYXYAA1xol?format=png&name=900x900" alt="cat" width="400" height="400"/>
 
+<p align=center><img src="https://komarev.com/ghpvc/?username=LeilaVanco&amp;color=blue&amp;style=for-the-badge" alt="">
+
 <!--
 **LeilaVanco/LeilaVanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
