@@ -21,8 +21,8 @@ It could be great that I could take a bigger interest to Linux (Ubuntu), althoug
 <h3 align="left">Languages and Tools :</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </p>
 
-# One last thing.... CATTT
-<img src="https://pbs.twimg.com/media/Gctc6HYXYAA1xol?format=png&name=900x900" alt="cat" width="450" height="450"/>
+# One last thing.... TAKE A CATTT
+<img src="https://pbs.twimg.com/media/Gctc6HYXYAA1xol?format=png&name=900x900" alt="cat" width="300" height="300"/>
 
 <!--
 **LeilaVanco/LeilaVanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
