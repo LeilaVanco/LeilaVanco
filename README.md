@@ -3,7 +3,7 @@
 # YOLOO I'm Leïla Vanco 🤠
 ## This year gonna be CRAZY !!
 
-- I am creating a Discord Bot in Python (maybe use MongoDB Compass as db as I already did in the past*, and the bot probably be hosted on a raspberry pi)
+- I am creating a Discord Bot in Python (maybe use MongoDB Compass as db as I already did in the past*) that will be hosted on a Mini PC Lenovo ThinkCentre M710q Tiny Desktop)
 
 - Aaand after this I'll do a website (just for fun)
 
