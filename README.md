@@ -9,7 +9,7 @@
 
 - Then, when I'll obtain my Baccalauréat (I'm french), I'll buy a computer and probably do lot of things on it
 
-- AFTER THIS I'll buy a server to host many things
+- AFTER THIS I'll buy another server more powerful to host many things
 
 I tried a little bit JavaScript* (discord bot with nodejs), html & css and a lot of Python. But I'm not gonna stop here ! I'll learn new language yup yup.
 It could be great if I could take a bigger interest to Linux (Ubuntu), although I already did some stuff.
