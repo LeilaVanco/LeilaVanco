@@ -18,7 +18,7 @@ It's all my goals for now.. 🤖
 <h3 align="left">Come here !</h3>
 <p align="left">
 <a href="https://twitter.com/leilavanco" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" alt="twitter" height="50" width="60"/> </a>
-<a href="https://discord.gg/quwJ2czg" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" height="50" width="60" /></a>
+<a href="https://discord.gg/c45eYRYgmF" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" height="50" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools (not necessarily well mastered):</h3>
