@@ -7,7 +7,7 @@
 
 - Aaand after this I'll do a website (just for fun)
 
-- Then, when I'll obtain my Baccalauréat (I'm french), I'll buy a computer and probably do lot of things on it
+- Then, I'll buy a computer and probably do lot of things on it
 
 - AFTER THIS I'll buy another server more powerful to host many things
 
