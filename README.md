@@ -1,3 +1,5 @@
+[![Ezzud's Github Readme Discord Card](https://discord-readme-card.ezzud.fr/?userid=907264292431224842)](https://github.com/Ezzud/github-readme-discord-card)
+
 <p align=center><img src="https://komarev.com/ghpvc/?username=LeilaVanco&amp;color=blue&amp;style=for-the-badge" alt="profile view stats">
 
 # YOLOO I'm Leïla Vanco 🤠
