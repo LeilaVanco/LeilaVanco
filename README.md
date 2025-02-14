@@ -15,11 +15,9 @@
 
 - Aaand after this I'll do a website (just for fun)
 
-- Then, I'll buy a computer and probably do lot of things on it
+- Then A LOT OF THINGS FR
 
-- AFTER THIS I'll buy another server more powerful to host many things
-
-I tried a little bit JavaScript (discord bot with nodejs), html & css and a lot of Python. But I'm not gonna stop here ! I'll learn new language yup yup.
+I tried JavaScript (discord bot with nodejs), html & css, OCaml, SQLite, and lot of Python. But I'm not gonna stop here ! I'll learn new language yup yup.
 It could be great if I could take a bigger interest to Linux (Ubuntu), although I already did some stuff.
 It's all my goals for now.. 🤖
 
@@ -30,7 +28,7 @@ It's all my goals for now.. 🤖
 </p>
 
 <h3 align="left">Languages and Tools (not necessarily well mastered):</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> <img src="https://www.svgrepo.com/show/373945/ocaml.svg" alt="OCaml" width="70" height="70"/> <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite" width="70" height="70"/></p>
 
 # One last thing.... TAKE THIS CAT
 <img src="https://pbs.twimg.com/media/Gctc6HYXYAA1xol?format=png&name=900x900" alt="cat" width="400" height="400"/>
