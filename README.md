@@ -23,7 +23,7 @@ It's all my goals for now.. 🤖
 <a href="https://discord.gg/c45eYRYgmF" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" height="50" width="60" /></a>
 </p>
 
-<h3 align="left">Languages and Tools (not necessarily well mastered):</h3>
+<h3 align="left">Languages and Tools that I've tested :</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> <img src="https://www.svgrepo.com/show/373945/ocaml.svg" alt="OCaml" width="70" height="70"/> <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite" width="110" height="75"/></p>
 
 # One last thing.... TAKE THIS CAT
