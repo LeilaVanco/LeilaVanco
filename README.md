@@ -12,7 +12,8 @@
 ## This year gonna be CRAZY !!
 
 - Sorry I moved on Gitlab (but codeberg is better ngl)
-- 
+- oui oui baguette
+  
 # One last thing.... TAKE THIS CAT
 <img src="https://pbs.twimg.com/media/Gctc6HYXYAA1xol?format=png&name=900x900" alt="cat" width="400" height="400"/>
 
